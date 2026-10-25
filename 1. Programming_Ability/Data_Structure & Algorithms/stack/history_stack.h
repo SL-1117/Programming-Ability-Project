@@ -4,7 +4,7 @@
 #define HISTORY_CAPACITY 100
 
 typedef struct {
-    char name[30];
+    char name[100];
     int old_value;
     int new_value;
 } BattleAction;

@@ -18,11 +18,11 @@ int push(Stack *stack, BattleAction action)
 int pop(Stack *stack, BattleAction *last_action)
 {
     if (stack == NULL || last_action == NULL || stack->top < 0)
-        return 1;
+        return 0;
 
     *last_action = stack->data[stack->top--];
     
-    return 0;
+    return 1;
 }
 
 

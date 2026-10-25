@@ -30,7 +30,7 @@ int complete_quest(Quest *head, int id)
         {
             head->state = COMPLETED;
             return 1;
-        }
+        }  
 
         head = head->next;
     }

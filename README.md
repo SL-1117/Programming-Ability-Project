@@ -1,17 +1,34 @@
 # Programming-Ability-Project
 
-2026/10/23 Friday
+2026/10/24 Thursday
 
 # note
-Working on controling MCU 7segment by each pin.
+Working on controlling MCU 7segment by each pin.
 
 ***means completed
 **means almost
 *means a little
 
+# snprintf
+char buff[50] = '\0';
+snprintf(buff, sizeof(buff), "Memory allocation failed");
+
+# fprintf / perror / printf
+fprintf(stderr, "Error: memory allocation failed.");
+perror("Memory: "); // print the error messages from the stderr.
+printf("Memory allocation failed.");
+
+fprintf(stdout, "Memory allocation failed.");
+= printf("Memory allocation failed.");
+
 ### quest.h quest.c main.c
 quest.h:
-#pragma
+#ifndef STACK_H
+#define STACK_H
+
+// functions
+
+#endif
 
 quest.c
 
@@ -30,7 +47,7 @@ Graph
 Rooms, exits, pathfinding
 
 
-# Combat Manager
+# Combat Manager *
 Heap + Queue
 Initiative and pending actions
 
@@ -40,7 +57,7 @@ Hash table
 Find items by ID
 
 
-# Battle History **
+# Battle History ***
 Stack
 Undo previous actions
 

@@ -25,7 +25,7 @@ Linked list
 Accept, complete, remove quests
 
 
-# Skill Manager
+# Skill Manager ***
 Tree
 Prerequisites and unlocking
 

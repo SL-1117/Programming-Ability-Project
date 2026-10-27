@@ -1,6 +1,6 @@
 # Programming-Ability-Project
 
-2026/10/26 Thursday
+2026/10/27 Tuesday
 
 # note
 Working on controlling MCU 7segment by each pin.
@@ -8,18 +8,6 @@ Working on controlling MCU 7segment by each pin.
 ***means completed
 **means almost
 *means a little
-
-# snprintf
-char buff[50] = '\0';
-snprintf(buff, sizeof(buff), "Memory allocation failed");
-
-# fprintf / perror / printf
-fprintf(stderr, "Error: memory allocation failed.");
-perror("Memory: "); // print the error messages from the stderr.
-printf("Memory allocation failed.");
-
-fprintf(stdout, "Memory allocation failed.");
-= printf("Memory allocation failed.");
 
 ### quest.h quest.c main.c
 quest.h:
@@ -37,7 +25,7 @@ Linked list
 Accept, complete, remove quests
 
 
-# Skill Manager
+# Skill Manager ***
 Tree
 Prerequisites and unlocking
 
@@ -47,7 +35,7 @@ Graph
 Rooms, exits, pathfinding
 
 
-# Combat Manager *
+# Combat Manager ***
 Heap + Queue
 Initiative and pending actions
 
@@ -61,6 +49,9 @@ Find items by ID
 Stack
 Undo previous actions
 
+# Heap & Priority_queue ***
+Queue / Circular queue
+Line up in a convenience store
 
 # The roadmap of Data Structure(but dis is not for today tho.)
 ```c

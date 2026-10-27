@@ -1,6 +1,6 @@
 # Programming-Ability-Project
 
-2026/10/24 Thursday
+2026/10/26 Thursday
 
 # note
 Working on controlling MCU 7segment by each pin.

@@ -1,6 +1,6 @@
 # Programming-Ability-Project
 
-2026/10/30 Friday
+2026/11/2 Monday
 
 # note
 Software testing:
@@ -10,6 +10,22 @@ Try to find the similar way to use on python or C.
 ***means completed
 **means almost
 *means a little
+
+# python
+variables
+
+```c
+first_message = "Are u living in Taichung?"
+age = 21
+price = 10.99
+is_online = True
+
+if is_online:
+    print(f"is_online")
+
+else:
+    print(f"is_online")
+```
 
 ### quest.h quest.c main.c
 quest.h:

@@ -1,10 +1,11 @@
 # Programming-Ability-Project
 
-2026/11/4 Wednesday
+2026/11/5 Thursday
 
 # special note 
 bioinformation midterm
 Operation system midterm
+MCU midterm
 
 # note
 Software testing:

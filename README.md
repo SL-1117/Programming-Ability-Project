@@ -1,11 +1,7 @@
 # Programming-Ability-Project
 
-2026/11/5 Thursday
+2026/11/10 Tuesday
 
-# special note 
-bioinformation midterm
-Operation system midterm
-MCU midterm
 
 # note
 Software testing:
@@ -17,31 +13,12 @@ Try to find the similar way to use on python or C.
 *means a little
 
 # python
-variables
+Variables
+Typecasting
+user_input
+arithmetic operator
+if statement
 
-```c
-first_message = "Are u living in Taichung?"
-age = 21
-price = 10.99
-is_online = True
-
-if is_online:
-    print(f"is_online")
-
-else:
-    print(f"is_online")
-```
-
-### quest.h quest.c main.c
-quest.h:
-#ifndef STACK_H
-#define STACK_H
-
-// functions
-
-#endif
-
-quest.c
 
 # Quest Manager ***
 Linked list

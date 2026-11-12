@@ -1,7 +1,6 @@
 # Programming-Ability-Project
 
-2026/11/10 Tuesday
-
+2026/11/12 Thursday
 
 # note
 Software testing:
@@ -13,19 +12,15 @@ Try to find the similar way to use on python or C.
 *means a little
 
 # python
-Variables
-Typecasting
-user_input
-arithmetic operator
-if statement
+1-13
+14-20
 
-
-# Quest Manager ***
+# Quest Manager *** *
 Linked list
 Accept, complete, remove quests
 
 
-# Skill Manager ***
+# Skill Manager *** *
 Tree
 Prerequisites and unlocking
 
@@ -35,7 +30,7 @@ Graph
 Rooms, exits, pathfinding
 
 
-# Combat Manager ***
+# Combat Manager *** *
 Heap + Queue
 Initiative and pending actions
 
@@ -45,11 +40,11 @@ Hash table
 Find items by ID
 
 
-# Battle History ***
+# Battle History *** *
 Stack
 Undo previous actions
 
-# Heap & Priority_queue ***
+# Heap & Priority_queue *** *
 Queue / Circular queue
 Line up in a convenience store
 

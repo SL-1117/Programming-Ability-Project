@@ -1,18 +1,16 @@
 #include <stdio.h>
+#include <string.h>
 
-int main(void)
-{
-    int player_height = 170;
-    int player_weight = 0;
+int main() {
 
-    if (scanf("%d", &player_weight) != 1)
-    {
-        printf("Invalid input.");
-        return 1;
-    }
+    char name[30] = "Shiro Leaf";
+    char name2[30] = "Hello";
 
-    printf("%d", player_height);
-    printf("Player weight is %d", player_weight);
+
+
+    snprintf(name, sizeof(name), "%s", name2 ? name2 : "Unnamed");
+
+    printf("%s", name);
 
     return 0;
-} 
+}

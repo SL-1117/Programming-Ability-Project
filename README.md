@@ -1,6 +1,9 @@
 # Programming-Ability-Project
 
-2026/11/2 Monday
+2026/11/3 Tuesday
+
+# special note 
+bioinformation midterm
 
 # note
 Software testing:

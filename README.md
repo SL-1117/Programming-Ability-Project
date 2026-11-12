@@ -1,9 +1,11 @@
 # Programming-Ability-Project
 
-2026/10/27 Tuesday
+2026/10/30 Friday
 
 # note
-Working on controlling MCU 7segment by each pin.
+Software testing:
+I learned something called PMD, it's a static code analysis tool that examines the source code.
+Try to find the similar way to use on python or C.
 
 ***means completed
 **means almost

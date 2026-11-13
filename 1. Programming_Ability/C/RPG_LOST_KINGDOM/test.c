@@ -3,14 +3,17 @@
 
 int main() {
 
-    char name[30] = "Shiro Leaf";
-    char name2[30] = "Hello";
+    char groceries[][9] = {"Apple", 
+                           "Banana", 
+                           "Pineapple",
+                           "Ferari", 
+                           "Honda", 
+                           "Tesla",
+                           "Running", 
+                           "Raining", 
+                           "Crying"};
 
-
-
-    snprintf(name, sizeof(name), "%s", name2 ? name2 : "Unnamed");
-
-    printf("%s", name);
+    printf("%c", groceries[3][5]);
 
     return 0;
 }

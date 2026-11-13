@@ -1,6 +1,6 @@
 # Programming-Ability-Project
 
-2026/11/12 Thursday
+2026/11/13 Friday
 
 # note
 Software testing:
@@ -13,7 +13,8 @@ Try to find the similar way to use on python or C.
 
 # python
 1-13
-14-20
+14-20  
+21-24
 
 # Quest Manager *** *
 Linked list

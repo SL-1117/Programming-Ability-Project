@@ -1,6 +1,10 @@
 # Programming-Ability-Project
 
-2026/11/13 Friday
+2026/11/14 Saturday
+
+# special note
+I've been thought about my future career for the whole day, 
+yet I still haven't come to a conclusion of how I'mma pull my junior through.
 
 # note
 Software testing:

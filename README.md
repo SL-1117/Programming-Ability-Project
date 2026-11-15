@@ -1,6 +1,6 @@
 # Programming-Ability-Project
 
-2026/11/14 Saturday
+2026/11/15 Sunday
 
 # special note
 I've been thought about my future career for the whole day, 
@@ -19,6 +19,7 @@ Try to find the similar way to use on python or C.
 1-13
 14-20  
 21-24
+25
 
 # Quest Manager *** *
 Linked list

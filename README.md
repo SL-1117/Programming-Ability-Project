@@ -1,10 +1,8 @@
 # Programming-Ability-Project
 
-2026/11/15 Sunday
+2026/11/16 Monday
 
 # special note
-I've been thought about my future career for the whole day, 
-yet I still haven't come to a conclusion of how I'mma pull my junior through.
 
 # note
 Software testing:
@@ -14,6 +12,8 @@ Try to find the similar way to use on python or C.
 ***means completed
 **means almost
 *means a little
+
+# machining learning
 
 # python
 1-13

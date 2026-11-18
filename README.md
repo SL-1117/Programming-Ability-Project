@@ -1,8 +1,10 @@
 # Programming-Ability-Project
 
-2026/11/16 Monday
+2026/11/17 Tuesday
 
 # special note
+damn I think this one is so important, I gotta start learning it as soon as possible.
+linux (OS) 
 
 # note
 Software testing:

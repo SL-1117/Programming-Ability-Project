@@ -1,19 +1,10 @@
 #include <stdio.h>
-#include <string.h>
 
 int main() {
 
-    char groceries[][9] = {"Apple", 
-                           "Banana", 
-                           "Pineapple",
-                           "Ferari", 
-                           "Honda", 
-                           "Tesla",
-                           "Running", 
-                           "Raining", 
-                           "Crying"};
+    int circular_queue[100] = 0;
 
-    printf("%c", groceries[3][5]);
+    
 
     return 0;
 }

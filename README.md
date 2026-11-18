@@ -1,10 +1,13 @@
 # Programming-Ability-Project
 
-2026/11/17 Tuesday
+2026/11/18 Wednesday
 
 # special note
 damn I think this one is so important, I gotta start learning it as soon as possible.
 linux (OS) 
+
+MCU today, disaster. <--- btw this is called comma
+, <--- this is called period, don't forget about this again.
 
 # note
 Software testing:

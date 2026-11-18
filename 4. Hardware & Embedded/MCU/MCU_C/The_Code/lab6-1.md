@@ -15,7 +15,7 @@ void show_result(int a, int b)
     sprintf(buf, "%d + %d = %d", a, b, a + b);  print_Line(0, buf);
     sprintf(buf, "%d - %d = %d", a, b, a - b);  print_Line(1, buf);  
     sprintf(buf, "%d x %d = %d", a, b, a * b);  print_Line(2, buf);
-    sprintf(buf, "%d / %d = %d", a, b, a / b);  print_Line(3, buf); 
+    sprintf(buf, "%d / %d = %d", a, b, a / b);  print_Line(3, buf);
 }
 
 int main(void)

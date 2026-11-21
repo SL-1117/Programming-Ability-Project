@@ -1,6 +1,6 @@
 # Programming-Ability-Project
 
-2026/11/18 Wednesday
+2026/11/19 Thursday
 
 # special note
 damn I think this one is so important, I gotta start learning it as soon as possible.

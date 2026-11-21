@@ -1,6 +1,6 @@
 # Programming-Ability-Project
 
-2026/11/20 Friday
+2026/11/21 Saturday
 
 # special note
 damn I think this one is so important, I gotta start learning it as soon as possible.
@@ -27,6 +27,7 @@ Try to find the similar way to use on python or C.
 14-20  
 21-24
 25
+26-27
 
 # Quest Manager *** *
 Linked list

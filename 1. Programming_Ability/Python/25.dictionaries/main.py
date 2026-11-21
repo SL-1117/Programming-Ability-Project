@@ -9,7 +9,7 @@ capitals = {"USA": "Washington D.C.",
 # print(dir(capitals))
 # print(help(capitals))
 
-# print(capitals.get("JAPAN"))
+# print(capitals.get("Moscow"))
 # capitals.pop("Russia")
 # capitals.update({"Taiwan": "Taipei"})
 # capitals.update({"Taiwan": "Beijing"})

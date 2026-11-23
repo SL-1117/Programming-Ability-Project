@@ -11,9 +11,9 @@ print("Lambogini" in Cars)
 # We cannot use the index because set is unordered
 # print(Cars[0])
 
-Cars.add("Audi")
+# Cars.add("Audi")
 # Cars.remove("Tesla")
-# Cars.pop()
+Cars.pop()
 # Cars.clear()
 
 print(Cars)

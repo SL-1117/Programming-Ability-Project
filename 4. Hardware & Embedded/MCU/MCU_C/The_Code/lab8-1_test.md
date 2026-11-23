@@ -1,3 +1,4 @@
+```c
 //
 // LCD_Graph_Pingpong: draw a circle bouncing around between two bars on LCD
 //
@@ -64,16 +65,19 @@ int32_t main (void)
 		{
 			if (pressed_Key != 5)
 			{
+				int nx, ny = 0; 
+				int valid = 1;
 				switch(pressed_Key) {
-				case 1: dirX = -1; dirY = -1; break;
-				case 3: dirX = 1; dirY = -1; break;
-				case 4: dirX = -1; dirY = 0; break;
-				case 6: dirX = 1; dirY = 0; break;
-				case 7: dirX = -1; dirY = 1; break;
-				case 9: dirX = 1; dirY = 1; break;
-				default:
-					break;
+					case 1: nx = -1; ny = -1;  break;
+					case 3: nx = 1;  ny = -1;  break;
+					case 4: nx = -1; ny = 0;   break;
+					case 6: nx = 1;  ny = 0;   break;
+					case 7: nx = -1; ny = 1;   break;
+					case 9: nx = 1;  ny = 1;   break;
+					default: valid = 0; break;
 				}
+
+				if (valid) { dirX = nx; dirY = ny; moving = 1; }
 			}
 			
 			if (pressed_Key == 5)

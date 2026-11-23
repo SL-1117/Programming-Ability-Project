@@ -15,8 +15,8 @@
 #include "Scankey.h"
 #include "Seven_Segment.h"
 
-#define XC 64
-#define YC 32
+#define X0 64
+#define Y0 32
 
 // Draw or erase eight symmetric points
 static void plot_circle_points(int xc, int yc, int x, int y,
@@ -90,13 +90,13 @@ int32_t main(void)
                 if (has_circle)
                 {
                     draw_bresenham_circle(
-                        XC, YC, previous_radius, BG_COLOR
+                        X0, Y0, previous_radius, BG_COLOR
                     );
                 }
 
                 // Draw the new circle
                 draw_bresenham_circle(
-                    XC, YC, radius, FG_COLOR
+                    X0, Y0, radius, FG_COLOR
                 );
 
                 previous_radius = radius;

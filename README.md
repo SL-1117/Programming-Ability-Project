@@ -28,6 +28,9 @@ Try to find the similar way to use on python or C.
 21-24
 25
 26-27
+28-29 11/23
+30-34 11/24
+
 
 # Quest Manager *** *
 Linked list

@@ -1,15 +1,12 @@
 # Programming-Ability-Project
 
-2026/11/21 Saturday
+2026/11/28 Friday
 
 # special note
 damn I think this one is so important, I gotta start learning it as soon as possible.
 linux (OS) 
-
-Learned ST and digital logic tdy.
-
-MCU today, disaster. <--- btw this is called comma
-, <--- this is called period, don't forget about this again.
+So this is basically the second day that I started learning linux.
+And I'm learning git rn, still thinking of the way to perform the progress that I made. Gonna do it tmr.
 
 # note
 Software testing:

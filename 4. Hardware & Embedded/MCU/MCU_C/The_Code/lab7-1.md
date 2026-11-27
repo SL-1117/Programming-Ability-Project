@@ -36,7 +36,7 @@ unsigned char BMP_Logo_Nuvoton[128*8] = {   // Nuvoton Logo (from bmp2asm)
 
 static unsigned char FrameBuf[LCD_Xmax * (LCD_Ymax / 8)];   // shifted frame to be displayed
 
-/* ---- BEGIN SCROLL ---- */
+/* ---- BEGIN SCROLL ---- */ 
 // Shift the source image by (ox, oy) pixels with wrap-around, result goes to FrameBuf
 // Format: byte index = x + page*128, bit0 = top pixel of the page
 static void build_frame(int ox, int oy)
